@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/poeticien/.config/variety/Downloaded/nasa_apod/Selfie_InSight_4391.jpg' 

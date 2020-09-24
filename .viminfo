@@ -1,0 +1,60 @@
+# Ce fichier viminfo a été généré par Vim 8.2.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# Viminfo version
+|1,4
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Historique ligne de commande (chronologie décroissante) :
+:wq
+|2,0,1600821969,,"wq"
+:q
+|2,0,1600818410,,"q"
+
+# Historique chaîne de recherche (chronologie décroissante) :
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique Ligne de débogage (chronologie décroissante) :
+
+# Registres :
+
+# Marques dans le fichier :
+'0  3  49  ~/Data/polybar-collection/launch.sh
+|4,48,3,49,1600821969,"~/Data/polybar-collection/launch.sh"
+'1  101  0  /etc/lightdm/lightdm.conf
+|4,49,101,0,1600818410,"/etc/lightdm/lightdm.conf"
+
+# Liste de sauts (le plus récent en premier) :
+-'  3  49  ~/Data/polybar-collection/launch.sh
+|4,39,3,49,1600821969,"~/Data/polybar-collection/launch.sh"
+-'  1  0  ~/Data/polybar-collection/launch.sh
+|4,39,1,0,1600821916,"~/Data/polybar-collection/launch.sh"
+-'  101  0  /etc/lightdm/lightdm.conf
+|4,39,101,0,1600818410,"/etc/lightdm/lightdm.conf"
+-'  101  0  /etc/lightdm/lightdm.conf
+|4,39,101,0,1600818410,"/etc/lightdm/lightdm.conf"
+-'  1  0  /etc/lightdm/lightdm.conf
+|4,39,1,0,1600818309,"/etc/lightdm/lightdm.conf"
+-'  1  0  /etc/lightdm/lightdm.conf
+|4,39,1,0,1600818309,"/etc/lightdm/lightdm.conf"
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/Data/polybar-collection/launch.sh
+	*	1600821965	0
+	"	3	49
+	^	3	50
+	.	3	50
+	+	3	50
+
+> /etc/lightdm/lightdm.conf
+	*	1600818320	0
+	"	101	0
